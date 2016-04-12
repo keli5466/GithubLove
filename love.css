@@ -1,0 +1,51 @@
+
+body{
+	/* position:fixed; */
+	background-image:url("tree2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-position: right; 
+ 	 /* background-position: 0px 150px; */ 
+	
+
+}
+#header{
+	width:100%;
+	/* margin:0px auto; */
+	position: fixed;
+	top:0;
+	/* position:relative; */
+	/* background-color: rgba(182,192,214,0.7); */
+	height:150px;
+  	border: 4px solid rgba(244,137,137,1);
+  	color: rgba(255,255,255,1);
+  	text-align: center;
+ 	background: #fcfcfc;
+}
+
+#nav{
+	padding:10px;
+	margin:10px;
+}
+li{
+	display: inline;
+	padding:50px;
+	margin:auto;
+}
+#content{	
+
+}
+#box1{
+	width:50%; 
+	background-color: rgba(17,96,255,0.84);
+	border: 14px solid rgba(22,188,53,0.84);
+	/* position:relative; */
+	margin-right:20px;
+	margin-top: 15%;
+
+	float: right;
+}
+p{
+	font-family: 'Rock Salt';
+	font-size: 15px;
+}
